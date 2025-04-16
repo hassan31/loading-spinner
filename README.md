@@ -19,7 +19,7 @@ A lightweight, reusable SwiftUI loading spinner package with multiple animated s
 ### Using Swift Package Manager
 
 1. In Xcode, go to `File` > `Add Packages...`
-2. Enter the URL of this repository:
+2. Enter the URL of this repository: `https://github.com/hassan31/loading-spinner`
 3. Select the latest version and add it to your app target.
 
 ---
