@@ -51,7 +51,6 @@ struct ContentView: View {
 ```
 
 ## 🧪 Spinner Variants
-## 🧪 Spinner Variants
 
 | Variant       | Preview                     | Description                    |
 |---------------|-----------------------------|--------------------------------|
