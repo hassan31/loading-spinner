@@ -12,4 +12,6 @@ public enum SpinnerVariant {
     case circle
     case dots
     case gradient
+    case googleDots
+    case circularStroke
 }
