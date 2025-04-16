@@ -4,6 +4,10 @@ A lightweight, reusable SwiftUI loading spinner package with multiple animated s
 
 ---
 
+## 📱 Demo
+
+[![bpE2M.gif](https://s6.gifyu.com/images/bpE2M.gif)](https://gifyu.com/image/bpE2M)
+
 ## ✨ Features
 
 - ✅ Multiple spinner variants: `.default`, `.circle`, `.dots`, `.gradient`
